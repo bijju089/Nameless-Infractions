@@ -1,11 +1,11 @@
 <?php 
 /*
- *	Made by Samerton
- *  https://github.com/NamelessMC/Nameless/
- *  NamelessMC version 2.0.0-pr2
- *
+ *  Forked from Infractions by Samerton
+ *  https://github.com/samerton/Nameless-Infractions
+ */
+/*
+ *  Infractions Module by BijjuXD
+ *  NamelessMC Version 2.0.0-pr13
  *  License: MIT
- *
- *  Infractions module - infractions profile tab
  */
  
