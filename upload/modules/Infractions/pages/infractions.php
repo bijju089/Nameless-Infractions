@@ -1,12 +1,12 @@
 <?php
 /*
- *	Made by Samerton and Partydragen
+ *  Forked from Infractions by Samerton
  *  https://github.com/samerton/Nameless-Infractions
- *  NamelessMC version 2.0.0-pr13
- *
+ */
+/*
+ *  Infractions Module by BijjuXD
+ *  NamelessMC Version 2.0.0-pr13
  *  License: MIT
- *
- *  Infractions page
  */
 
 // Can the user view the panel?
