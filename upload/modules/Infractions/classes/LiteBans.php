@@ -1,12 +1,12 @@
 <?php
 /*
- *	Made by Samerton
+ *  Forked from Infractions by Samerton
  *  https://github.com/samerton/Nameless-Infractions
- *  NamelessMC version 2.0.0-pr13
- *
+ */
+/*
+ *  Infractions Module by BijjuXD
+ *  NamelessMC Version 2.0.0-pr13
  *  License: MIT
- *
- *  LiteBans class
  */
 
 class LiteBans extends Infractions {
