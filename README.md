@@ -12,6 +12,10 @@ If you would like to request plugin support, please open an issue on [GitHub](ht
 ### Screenshots
 ![image](https://github.com/bijju089/Nameless-Infractions/assets/103484184/6bd5cab4-198d-45c6-93e4-150d1bb84c13)
 
+### Supported Themes
+- DefaultRevamp
+- Previously supported themes for Infractions by Samerton
+
 ### Requirements
 - NamelessMC version 2.1.1
 - One of the previously mentioned supported plugins installed and configured to use MySQL
